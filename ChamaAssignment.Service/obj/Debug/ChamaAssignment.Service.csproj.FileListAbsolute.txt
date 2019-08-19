@@ -1,0 +1,12 @@
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\bin\ChamaAssignment.Service.dll.config
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\bin\ChamaAssignment.Service.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\bin\ChamaAssignment.Service.pdb
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\bin\AppInterface.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\bin\ChamaAssignment.Data.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\bin\EntityFramework.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\bin\AppInterface.pdb
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\bin\ChamaAssignment.Data.pdb
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\bin\EntityFramework.xml
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\obj\Debug\ChamaAssignment.Service.csprojResolveAssemblyReference.cache
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\obj\Debug\ChamaAssignment.Service.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service\obj\Debug\ChamaAssignment.Service.pdb
