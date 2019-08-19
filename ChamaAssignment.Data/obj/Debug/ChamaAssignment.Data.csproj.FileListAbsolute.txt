@@ -1,0 +1,10 @@
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\obj\Debug\ChamaAssignment.Data.csprojResolveAssemblyReference.cache
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\bin\ChamaAssignment.Data.dll.config
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\bin\ChamaAssignment.Data.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\bin\ChamaAssignment.Data.pdb
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\bin\EntityFramework.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\bin\EntityFramework.SqlServer.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\bin\EntityFramework.xml
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\bin\EntityFramework.SqlServer.xml
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\obj\Debug\ChamaAssignment.Data.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Data\obj\Debug\ChamaAssignment.Data.pdb
