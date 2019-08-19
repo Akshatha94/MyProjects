@@ -1,0 +1,1 @@
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\ChamaAssignment.Service.Tests\obj\Debug\ChamaAssignment.Service.Tests.csprojResolveAssemblyReference.cache
