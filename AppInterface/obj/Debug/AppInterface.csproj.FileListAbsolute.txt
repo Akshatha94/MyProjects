@@ -1,0 +1,9 @@
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\AppInterface\bin\Debug\AppInterface.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\AppInterface\bin\Debug\AppInterface.pdb
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\AppInterface\bin\Debug\ChamaAssignment.Data.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\AppInterface\bin\Debug\EntityFramework.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\AppInterface\bin\Debug\ChamaAssignment.Data.pdb
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\AppInterface\bin\Debug\EntityFramework.xml
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\AppInterface\obj\Debug\AppInterface.csprojResolveAssemblyReference.cache
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\AppInterface\obj\Debug\AppInterface.dll
+c:\users\csc\documents\visual studio 2013\Projects\ChamaAssignment\AppInterface\obj\Debug\AppInterface.pdb
